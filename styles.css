@@ -1,0 +1,33 @@
+h3{
+    background-color: #000;
+    color: #fff;
+    padding: 20px;
+    margin-top: 4px;
+    margin-right: 450px;
+    margin-left: 400px;
+}
+body{
+    background-color: #AEBCC0;
+}
+div button{
+    background-color: #000;
+    color: #fff;
+    width: 15%;
+    height: 50px;
+}
+form{
+    background-color: #fff;
+    color:#000;
+    margin-right: 400px;
+    margin-left: 400px;
+    padding: 20px;
+    margin-bottom:20px;
+}
+form button{
+    width:20%;
+}
+footer{
+    background-color:#000;
+    color:#fff;
+    padding:20px;
+}
